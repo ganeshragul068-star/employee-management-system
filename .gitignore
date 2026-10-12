@@ -1,0 +1,10 @@
+src/.env
+.env
+.env.*
+!*.env.example
+node_modules/
+.env
+.env.*
+!*.env.example
+src/.env
+node_modules/
